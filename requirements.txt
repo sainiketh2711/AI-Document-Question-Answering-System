@@ -1,2 +1,4 @@
 Flask
 gunicorn
+PyPDF2
+python-docx
